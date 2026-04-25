@@ -28,7 +28,7 @@ This project explores how valuation metrics correlate with stock performance, he
 
 ## 6. Product link / Demo
 - GitHub Repository: https://github.com/xiaoyubuss/my-acc102-track2/edit/main/README.md
-- Demo Video
+- Demo Video:https://video.xjtlu.edu.cn/Mediasite/Play/cec74128c56a4e36aaabc771ba51e72e1d
 
 ## 7. Limitations & next steps
 - **Limitations**: Small sample size of only 20 stocks; results may not generalize to the full S&P 500; does not control for sector or market conditions
